@@ -47,3 +47,7 @@ console.log(result)
   + **Belarusian State University of Informatics and
       Radioelectronics**
       + Master degree
+
+# Languages
+  + Russian - native
+  + English - A2+
