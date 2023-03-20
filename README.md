@@ -1,1 +1,1 @@
-https://maybe-skiFF.github.io/rsschool-cv/cv
+https://maybe-skiFF.github.io/rsschool-cv/
